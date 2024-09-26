@@ -42,7 +42,9 @@ public class Kafe14 {
                 break;
             case 'L':
                 totalHarga += 0.4 * totalHarga;
-                break;        
+                break; 
+            default:
+                System.out.println("Size yang dipilih tidak tersedia");       
         
         }
 
