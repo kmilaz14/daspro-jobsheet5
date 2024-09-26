@@ -44,7 +44,8 @@ public class Kafe14 {
                 totalHarga += 0.4 * totalHarga;
                 break; 
             default:
-                System.out.println("Size yang dipilih tidak tersedia");       
+                System.out.println("Size yang dipilih tidak tersedia");    
+                break;   
         
         }
 
